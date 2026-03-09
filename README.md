@@ -53,9 +53,9 @@ Repository
 
 ## 플레이 화면
 
-<img width="1905" height="1068" alt="Image" src="https://github.com/user-attachments/assets/b8b7cfb2-37a7-46e4-b504-744177431102" />
+<img width="950" height="520" alt="Image" src="https://github.com/user-attachments/assets/b8b7cfb2-37a7-46e4-b504-744177431102" />
 
-<img width="1901" height="978" alt="Image" src="https://github.com/user-attachments/assets/c2c3385a-8f3c-4a10-989f-6661793f8999" />
+<img width="950" height="520" alt="Image" src="https://github.com/user-attachments/assets/c2c3385a-8f3c-4a10-989f-6661793f8999" />
 
 
 Repository  
