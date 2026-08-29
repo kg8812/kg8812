@@ -126,17 +126,6 @@ Unity와 C#을 활용해 게임을 개발하고 있습니다.
 
 <br/><br/>
 
-### 테트리스
-
-유니티 공부 초창기에 혼자 만든 테트리스 게임입니다.
-
-<br/>
-
-<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/2a9efd6d-53b8-425e-95f3-09db6d479e50" />
-
-<br/>
-
-[Repository 링크](https://github.com/kg8812/Tetris)
 
 <!--
 **kg8812/kg8812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
