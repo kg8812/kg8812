@@ -38,7 +38,26 @@ Unity와 C#을 활용해 게임을 개발하고 있습니다.
 - **이벤트 기반 전투 구조** — 능력을 인터페이스로 분리해, 유닛이 아닌 오브젝트도 같은 전투 파이프라인을 탐
 - **확장 구조** — 버프(Buff/SubBuff 계층), 스킬(사용 방식 5종 교체), 투사체(충돌 반응·확장 컴포넌트 조합)
 
-<img src="https://github.com/user-attachments/assets/673cba93-0ca7-491f-b5b7-8c17376fd8d8" width="600" />
+**미리보기**
+
+────────────────────────────────────────────────────────────────
+
+[Behaviour Tree 에디터]
+
+https://github.com/user-attachments/assets/2c2b9840-01e5-4876-b491-c65adf0467b5
+
+[UI 포커스 네비게이션]
+
+https://github.com/user-attachments/assets/f169a3b6-6434-4b5f-8cda-8bc81ba41ea8
+
+
+[스킬 사용 방식]
+
+https://github.com/user-attachments/assets/9f6923f3-172e-4361-9823-345d56060bc1
+
+────────────────────────────────────────────────────────────────
+
+
 <br/>
 
 ### 가제 : WinterSpring
