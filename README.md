@@ -44,16 +44,15 @@ Unity와 C#을 활용해 게임을 개발하고 있습니다.
 
 [Behaviour Tree 에디터]
 
-https://github.com/user-attachments/assets/2c2b9840-01e5-4876-b491-c65adf0467b5
+<img width="800" height="374" alt="행동트리 작동" src="https://github.com/user-attachments/assets/01b0ff48-0162-4aee-8a5e-070a67deee55" />
 
 [UI 포커스 네비게이션]
 
-https://github.com/user-attachments/assets/f169a3b6-6434-4b5f-8cda-8bc81ba41ea8
+<img width="800" height="462" alt="UI 미리보기" src="https://github.com/user-attachments/assets/f6dabc9c-a3a3-4995-b693-a295eeb16558" />
 
+[차징 스킬 사용 예시]
 
-[스킬 사용 방식]
-
-https://github.com/user-attachments/assets/9f6923f3-172e-4361-9823-345d56060bc1
+<img width="800" height="454" alt="차징형 스킬" src="https://github.com/user-attachments/assets/2f1ade9e-219a-4e2f-a195-4bb9794ba7d9" />
 
 ────────────────────────────────────────────────────────────────
 
